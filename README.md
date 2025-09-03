@@ -14,5 +14,8 @@ MERN STACK DEVELOPER
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
 ![Elakia's GitHub Status]([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ElakiaChinnakalai&bg_color=29272b&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Elakia?theme=dark&font=Marcellus&ext=contest)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElakiaChinnakalai&theme=dark&show_icons=true)
+
+
 
 
