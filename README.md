@@ -13,8 +13,5 @@ MERN STACK DEVELOPER
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Elakia?theme=dark&font=Marcellus&ext=contest)
 
-
-![Elakia's GitHub stats]
-![LeetCode Stats](https://leetcard.jacoblin.cool/Elakia?theme=dark&font=Marcellus&ext=contest)
-[![Elakia's github activity graph]
