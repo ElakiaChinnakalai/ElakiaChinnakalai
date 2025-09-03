@@ -1,7 +1,7 @@
 ## Hi there 👋 It's Elakia Chinnakalai
 
 MERN STACK DEVELOPER
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://thumbs.dreamstime.com/b/girl-coding-web-page-girl-coding-web-page-listening-to-music-night-253185016.jpg">
 - 🔭 Here's my [portfolio]                                                
 - 🌱 I’m currently learning and doing projecst in MERN STACK
 - Engineeing at [<img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Anna_University_Logo.svg/1200px-Anna_University_Logo.svg.png" height="24">](https://www.annauniv.edu/#gsc.tab=0),
