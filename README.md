@@ -1,4 +1,4 @@
-## Hi there 👋 It's Elakia Chinnakalai
+## Hi there 👋 I'm Elakia Chinnakalai
 
 MERN STACK DEVELOPER
 <img align="right" width="370" height="290" src="https://thumbs.dreamstime.com/b/girl-coding-web-page-girl-coding-web-page-listening-to-music-night-253185016.jpg">
